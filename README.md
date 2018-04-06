@@ -1,0 +1,1 @@
+Sample of a basic static html page.
